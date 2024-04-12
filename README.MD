@@ -1,6 +1,7 @@
 Work With:
 	1. Windows
 	2. Python3
+	3. Chrome Browser
 
 Instuction To use:
 1. Run the command to install the requirements listed in requirements.txt:
