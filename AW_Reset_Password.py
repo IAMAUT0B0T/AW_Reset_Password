@@ -218,7 +218,7 @@ def logging(username, old_password, new_password):
     # Write some text to the file
         file.write("Username: "+username+" Old Password: "+old_password+" New Password: "+new_password+"\n")
 def main():
-    logo = """
+    logo = r"""
     ___        __ ____                _       ____                                     _ 
    / \ \      / /|  _ \ ___  ___  ___| |_    |  _ \ __ _ ___ _____      _____  _ __ __| |
   / _ \ \ /\ / / | |_) / _ \/ __|/ _ \ __|   | |_) / _` / __/ __\ \ /\ / / _ \| '__/ _` |
