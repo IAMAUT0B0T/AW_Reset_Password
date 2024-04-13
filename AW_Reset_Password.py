@@ -214,7 +214,7 @@ def update_user(username, new_password):
 
 def logging(username, old_password, new_password):
     # Open the file in write mode, which creates the file if it doesn't exist
-    with open('log.txt', 'w') as file:
+    with open('log.txt', 'a') as file:
     # Write some text to the file
         file.write("Username: "+username+" Old Password: "+old_password+" New Password: "+new_password+"\n")
 def main():
@@ -226,7 +226,7 @@ def main():
 /_/   \_\_/\_/___|_| \_\___||___/\___|\__|___|_|   \__,_|___/___/ \_/\_/ \___/|_|  \__,_|
             |_____|                     |_____|                                          
  
- AW_Reset_Password_v1 by Autobot.
+ AW_Reset_Password_v1 by AUTOBOT.
  https://www.facebook.com/people/Autobot/61558488084551/                                                       
             """
     print(logo)
