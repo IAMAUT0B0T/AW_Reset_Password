@@ -1,0 +1,19 @@
+Terms of Use:
+
+Responsibility:
+The developer creates scripts for your use only. There are no guarantees or liabilities whatsoever regarding the accuracy, performance, or suitability of the scripts for your use.
+
+Risk:
+Using the scripts is at your own risk. The developer is not responsible for any damages arising from the use, including but not limited to data loss, property damage, or any other damages, whether direct or indirect.
+
+Recommendations:
+Users are responsible for testing and modifying the scripts to suit their needs. There is no guarantee that the scripts will function as desired or expected.
+
+Updates and Modifications:
+The developer reserves the right to update and modify the scripts as deemed necessary without prior notice.
+
+Usage:
+Using these scripts constitutes acceptance of all terms and conditions specified in this document.
+
+Final Note:
+Using these scripts signifies your acceptance and understanding of all terms and conditions specified herein.
