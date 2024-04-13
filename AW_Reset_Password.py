@@ -11,7 +11,7 @@ import random
 import pyotp
 import string
 
-s = Service('D:\BotWax\chromedriver.exe')
+s = Service(r'D:\BotWax\chromedriver.exe')
 driver = None
 actions = None
 wait = None
