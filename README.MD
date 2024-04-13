@@ -12,3 +12,5 @@ Instuction To use:
 3. Edit the path to the full location of chromedriver.exe in AW_Ban_Appeal_Bot.py, line 14.<br>
 4. Add u account info to WAX_accounts.xlsx<br>
 5. Execute the command python3 AW_Reset_Password.py and enjoy the experience!<br>
+
+* Read Terms of Use and Accept Before Use.
