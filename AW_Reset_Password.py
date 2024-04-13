@@ -52,7 +52,7 @@ def get_accounts():
     
 def login(email, password, twofa_secret):
     
-    driver.get("https://www.mycloudwallet.com/signin")
+    driver.get(r"https://www.mycloudwallet.com/signin")
     time.sleep(2)
     try:
     # Wait for the element to be visible
